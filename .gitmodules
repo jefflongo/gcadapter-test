@@ -1,0 +1,3 @@
+[submodule "gcadapter-python"]
+	path = gcadapter
+	url = git@github.com:jefflongo/gcadapter-python.git
